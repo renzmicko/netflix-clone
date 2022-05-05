@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflix-clone/static/css/main.fc6ddd4d.css",
+    "main.js": "/netflix-clone/static/js/main.006011db.js",
+    "static/js/787.440c4889.chunk.js": "/netflix-clone/static/js/787.440c4889.chunk.js",
+    "static/media/st-nextgames.webp": "/netflix-clone/static/media/st-nextgames.65c5b6b65111651911f8.webp",
+    "static/media/spyFam.jpg": "/netflix-clone/static/media/spyFam.9e65cb95d0e65fa6d4b5.jpg",
+    "static/media/strangerThings.jpg": "/netflix-clone/static/media/strangerThings.941a03be760ff72b0b6d.jpg",
+    "static/media/OBS.jpg": "/netflix-clone/static/media/OBS.e5eebb1ec8404b9d646e.jpg",
+    "static/media/BP.jpg": "/netflix-clone/static/media/BP.29b6f59daea7e4c676db.jpg",
+    "index.html": "/netflix-clone/index.html",
+    "main.fc6ddd4d.css.map": "/netflix-clone/static/css/main.fc6ddd4d.css.map",
+    "main.006011db.js.map": "/netflix-clone/static/js/main.006011db.js.map",
+    "787.440c4889.chunk.js.map": "/netflix-clone/static/js/787.440c4889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc6ddd4d.css",
+    "static/js/main.006011db.js"
+  ]
+}
